@@ -4,4 +4,7 @@ RENCANA KONTEN ERHAN
 * Intermediate Javascript
 - Membuat struktur data
 - Membuat tutorial tentang Framework Javascript
+  * Angular
+  * React
 - Membuat studi kasus website dengan Javascript
+  * Membuat landing page dengan javascript
