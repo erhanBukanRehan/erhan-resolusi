@@ -2,7 +2,6 @@ RENCANA KONTEN ERHAN
 - Membuat tutorial tentang Javascript
 * Fundamental Javascript
 * Intermediate Javascript
-- Membuat struktur data
 - Membuat tutorial tentang Framework Javascript
   * Angular
   * React
