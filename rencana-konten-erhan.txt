@@ -5,6 +5,7 @@ RENCANA KONTEN ERHAN
 - Membuat struktur data
 - Membuat tutorial tentang Framework Javascript
   * Vue
+  * React
 - Membuat studi kasus website dengan Javascript
   * Membuat landing page dengan Javascript
 -Python
