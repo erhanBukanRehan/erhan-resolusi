@@ -1,0 +1,6 @@
+RENCANA KONTEN ERHAN
+- Membuat tutorial tentang Javascript
+* Fundamental Javascript
+* Intermediate Javascript
+- Membuat tutorial tentang Framework Javascript
+- Membuat studi kasus website dengan Javascript
